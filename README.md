@@ -2,7 +2,7 @@
 #### I am Software Developer
 ![I am Software Developer](https://d500.epimg.net/cincodias/imagenes/2018/11/09/midinero/1541785111_101699_1541785255_noticia_normal.jpg)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I am a 24-year-old computer science student who is currently doing an internship at Telefónica.
 
 Skills: Python, Machine Learning, Data Science
 
