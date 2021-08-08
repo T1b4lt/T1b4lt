@@ -39,8 +39,8 @@ Skills: Python, Machine Learning, Data Science
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=t1b4lt&show_icons=true&locale=en&layout=compact" alt="t1b4lt" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T1b4lt)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=t1b4lt&show_icons=true&locale=en" alt="t1b4lt" /></p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=T1b4lt&show_icons=true) 
 
 ![GitHub metrics](https://metrics.lecoq.io/T1b4lt)  
