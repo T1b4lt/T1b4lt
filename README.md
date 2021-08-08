@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Guille
 #### I am Software Developer
-![I am Software Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am Software Developer](https://d500.epimg.net/cincodias/imagenes/2018/11/09/midinero/1541785111_101699_1541785255_noticia_normal.jpg)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
