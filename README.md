@@ -40,9 +40,10 @@ Skills: Python, Machine Learning, Data Science
 <!--START_SECTION:waka-->
 
 ```text
-Python            57 mins         █████████████████▒░░░░░░░   69.65 %
-Protocol Buffer   24 mins         ███████▓░░░░░░░░░░░░░░░░░   30.16 %
-Git Config        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Python            22 mins         ███████████████████████▒░   92.75 %
+Protocol Buffer   1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.96 %
+CSV               0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+Text              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
