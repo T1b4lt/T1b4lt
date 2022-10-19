@@ -40,7 +40,12 @@ Skills: Python, Machine Learning, Data Science
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Astro        52 mins         ███████████▒░░░░░░░░░░░░░   45.21 %
+Markdown     33 mins         ███████▒░░░░░░░░░░░░░░░░░   29.39 %
+JSON         14 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.69 %
+HTML         5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
+Git Config   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
+CSS          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
 ```
 
 <!--END_SECTION:waka-->
