@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Guille</h1>
-<h3 align="center">A student and software developer from Spain</h3>
+<h3 align="center">Engineer | Software developer | AI | Full Stack | Spain</h3>
 
 ![I am Software Developer](https://d500.epimg.net/cincodias/imagenes/2018/11/09/midinero/1541785111_101699_1541785255_noticia_normal.jpg)
 
-I am a 24-year-old computer science student who is currently doing an internship at Telefónica.
+I am a 25-year-old computer science engineer who is currently working at Telefónica as IA Researcher & Full Stack Developer.
 
-Skills: Python, Machine Learning, Data Science
+Skills: Python, Machine Learning, Data Science.
 
-- 🔭 I’m currently working on **voice activity detection ML**
+- 🔭 I’m currently working on **integration of conversational bots in the Metaverse**
 
-- 🌱 I’m currently learning **React, Node, JS**
+- 🌱 I’m currently learning **React, Node, JS, Next**
 
 - 👯 I’m looking to collaborate on **Open Source projects**
 
