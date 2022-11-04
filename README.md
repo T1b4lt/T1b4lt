@@ -49,8 +49,6 @@ CSS          0 secs          ░░░░░░░░░░░░░░░░░
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T1b4lt)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=T1b4lt&show_icons=true)
 
 ![GitHub metrics](https://metrics.lecoq.io/T1b4lt)
