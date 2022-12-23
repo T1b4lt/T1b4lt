@@ -40,12 +40,11 @@ Skills: Python, Machine Learning, Data Science.
 <!--START_SECTION:waka-->
 
 ```text
-Python            5 hrs 23 mins   ████████████████░░░░░░░░░   63.45 %
-JavaScript        1 hr 28 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.31 %
-JSON              1 hr 2 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.22 %
-C#                15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
-Protocol Buffer   11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
-CSV               8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+Python            10 hrs 19 mins  █████████████████████▒░░░   85.75 %
+JSON              1 hr 3 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.83 %
+Protocol Buffer   27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
+JavaScript        11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
+Other             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
