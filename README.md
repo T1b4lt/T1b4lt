@@ -7,9 +7,7 @@ I am a 26-year-old computer science engineer who is currently working at Telefó
 
 Skills: Python, Machine Learning, Data Science.
 
-- 🔭 I’m currently working on **integration of conversational bots in the Metaverse**
-
-- 🌱 I’m currently learning **React, Node, JS, Next**
+- 🌱 I’m currently learning **LLM, LangChain**
 
 - 👯 I’m looking to collaborate on **Open Source projects**
 
