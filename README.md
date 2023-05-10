@@ -3,7 +3,7 @@
 
 ![I am Software Developer](https://d500.epimg.net/cincodias/imagenes/2018/11/09/midinero/1541785111_101699_1541785255_noticia_normal.jpg)
 
-I am a 25-year-old computer science engineer who is currently working at Telefónica as IA Researcher & Full Stack Developer.
+I am a 26-year-old computer science engineer who is currently working at Telefónica as IA Researcher & Full Stack Developer.
 
 Skills: Python, Machine Learning, Data Science.
 
@@ -14,8 +14,6 @@ Skills: Python, Machine Learning, Data Science.
 - 👯 I’m looking to collaborate on **Open Source projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/T1b4lt](https://github.com/T1b4lt)
-
-- 📫 How to reach me **guillermosegfer@gmail.com**
 
 ## ![Profile views](https://gpvc.arturio.dev/T1b4lt)
 
