@@ -36,7 +36,10 @@ Skills: Python, Machine Learning, Data Science.
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python   12 mins         ██████████████████▒░░░░░░   73.60 %
+HTTP     4 mins          ██████░░░░░░░░░░░░░░░░░░░   24.38 %
+Ezhil    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
+Text     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
