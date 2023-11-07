@@ -5,7 +5,7 @@
 
 I am a 26-year-old computer science engineer who is currently working at Telefónica as IA Researcher & Full Stack Developer.
 
-Skills: Python, Machine Learning, Data Science.
+Skills: Python, Machine Learning, Android and Web Development.
 
 - 🌱 I’m currently learning **LLM, LangChain**
 
