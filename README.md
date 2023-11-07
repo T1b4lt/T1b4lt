@@ -47,6 +47,8 @@ JSON         7 mins          █▒░░░░░░░░░░░░░░░
 
 ---
 
+<!---
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=T1b4lt&show_icons=true)
+-->
 
 ![GitHub metrics](https://metrics.lecoq.io/T1b4lt)
