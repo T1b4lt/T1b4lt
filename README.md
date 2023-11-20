@@ -23,11 +23,11 @@ Skills: Python, Machine Learning, Android and Web Development.
 <!--START_SECTION:waka-->
 
 ```txt
-Astro        6 hrs 4 mins    ████████████████▒░░░░░░░░   65.19 %
-JavaScript   1 hr 5 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.63 %
-Markdown     49 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.86 %
-Python       40 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 %
-Bash         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
+Astro        2 hrs 45 mins   ███████████▓░░░░░░░░░░░░░   46.79 %
+JavaScript   58 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.62 %
+Markdown     49 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.99 %
+Python       40 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.49 %
+Bash         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
 ```
 
 <!--END_SECTION:waka-->
