@@ -23,11 +23,11 @@ Skills: Python, Machine Learning, Android and Web Development.
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin   18 mins         ████████████████▒░░░░░░░░   65.06 %
-Python   3 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.99 %
-Other    2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.03 %
-HTML     1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 %
-Text     0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
+Python   3 mins          ██████████░░░░░░░░░░░░░░░   40.04 %
+Other    2 mins          ███████▒░░░░░░░░░░░░░░░░░   28.71 %
+HTML     1 min           █████░░░░░░░░░░░░░░░░░░░░   19.43 %
+Text     0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 %
+JSON     0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
 ```
 
 <!--END_SECTION:waka-->
