@@ -3,7 +3,7 @@
 
 ![I am Software Developer](https://d500.epimg.net/cincodias/imagenes/2018/11/09/midinero/1541785111_101699_1541785255_noticia_normal.jpg)
 
-I am a 26-year-old computer science engineer who is currently working at Telefónica as IA Researcher & Full Stack Developer.
+I am a 27-year-old computer science engineer who is currently working at Telefónica as AI Researcher & Full Stack Developer.
 
 Skills: Python, Machine Learning, Android and Web Development.
 
