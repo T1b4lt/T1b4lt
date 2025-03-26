@@ -23,11 +23,11 @@ Skills: Python, Machine Learning, Android and Web Development.
 <!--START_SECTION:waka-->
 
 ```txt
-Python       8 hrs 12 mins   ████████████████░░░░░░░░░   64.07 %
-TypeScript   3 hrs 38 mins   ███████░░░░░░░░░░░░░░░░░░   28.41 %
-Bash         35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
-Git Config   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
-CSS          4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+Python       7 hrs 13 mins   ███████████████░░░░░░░░░░   59.54 %
+TypeScript   3 hrs 38 mins   ███████▓░░░░░░░░░░░░░░░░░   30.03 %
+Bash         33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
+Text         18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
+Markdown     9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
 ```
 
 <!--END_SECTION:waka-->
