@@ -8,38 +8,48 @@ Puedes dejar en blanco lo que no quieras incluir.
 ## 1. DATOS PERSONALES
 
 **Nombre completo o nickname para el header:**
-> Guille (o el que prefieras)
+
+> Guille
 
 **Titulo profesional / tagline (1 linea que te defina):**
-> Ejemplo: "AI Engineer & Full Stack Developer @ Telefonica"
+
+> Product & AI Prototyper | Data & AI @ Telefonica
 
 **Edad actual (o prefieres no ponerla?):**
-> 
+
+> Prefiero no incluirla a partir de ahora
 
 **Ubicacion:**
+
 > Ejemplo: "Madrid, Spain"
 
 **Pronouns (el/ella/they, o no incluir):**
-> 
+
+> No incluir
 
 ---
 
 ## 2. SOBRE TI
 
 **Bio corta (2-3 frases sobre ti, lo que te apasiona, tu experiencia):**
-> 
+
+> En la bio corta quiero que pongas que me encanta construir cosas que sean utiles y faciliten la vida de las personas.
 
 **Que estas haciendo actualmente? (rol, empresa, proyecto principal):**
-> 
+
+> Aqui quiero que pongas que actualmente estoy trabjando en un equipo de innovacion y prototipado en Telefonica, donde me enfoco en aterrizar los avances de AI en productos y casos de uso reales.
 
 **Que estas aprendiendo ahora mismo?:**
-> Ejemplo: "AI Agents, RAG, Rust"
+
+> AI Agents frameworks, LLM Fine-tuning and evaluation, AI product design, agent orchestration.
 
 **Objetivo o focus para 2026:**
-> Ejemplo: "Contribuir a proyectos open source de AI"
+
+> Seguir contribuyendo a proyectos de AI que tengan un impacto real, y seguir aprendiendo sobre las nuevas tecnologias y herramientas que van saliendo en el ecosistema.
 
 **Fun fact sobre ti:**
-> 
+
+> "Me gusta tanto la montaña que a veces hago ruta por encima de mis posibilidades, pero siempre me dan ideas para proyectos nuevos :)"
 
 ---
 
@@ -48,25 +58,32 @@ Puedes dejar en blanco lo que no quieras incluir.
 Deja en blanco las que no quieras mostrar:
 
 **LinkedIn URL:**
-> 
+
+> https://www.linkedin.com/in/guillermo-segovia-fernandez/
 
 **Twitter/X handle:**
-> 
+
+>
 
 **Email de contacto publico:**
-> 
+
+>
 
 **Blog / Web personal:**
-> 
+
+> https://t1b4lt.github.io
 
 **Dev.to / Medium / Hashnode:**
-> 
+
+>
 
 **Discord username:**
-> 
+
+>
 
 **Stack Overflow profile:**
-> 
+
+>
 
 ---
 
@@ -76,42 +93,50 @@ Selecciona las tecnologias que usas ACTUALMENTE (no todo lo que has tocado algun
 Agrupa por nivel de uso.
 
 **Lenguajes principales (uso diario/semanal):**
-> Ejemplo: Python, TypeScript, Go
+
+> Ejemplo: Python, TypeScript, Kotlin
 
 **Frameworks / Librerias principales:**
-> Ejemplo: FastAPI, React, Next.js, LangChain
+
+> Ejemplo: FastAPI, React, Agno
 
 **AI / ML tools:**
-> Ejemplo: PyTorch, HuggingFace, OpenAI API, LangChain, Claude API
+
+> Ejemplo: PyTorch, HuggingFace, OpenAI API, Agents frameworks (Agno, LangChain, etc.)
 
 **Cloud & DevOps:**
-> Ejemplo: AWS, Azure, Docker, Kubernetes, Terraform, GitHub Actions
+
+> Ejemplo: Azure, Firebase, Docker, GitHub Actions
 
 **Bases de datos:**
-> Ejemplo: PostgreSQL, Redis, MongoDB, Pinecone
+
+> Ejemplo: PostgreSQL, Redis, Supabase, ChromaDB
 
 **Herramientas y otros:**
-> Ejemplo: Git, Linux, Neovim, VS Code, Figma
+
+> Ejemplo: Git, Linux, VS Code, Claude Code, Figma, Notion
 
 ---
 
 ## 5. ESTILO VISUAL
 
 **Que estilo visual prefieres?** (elige uno o combinacion):
-- [ ] **Bento Grid** - Layout modular con tarjetas tipo Apple (la tendencia mas fuerte ahora)
-- [ ] **Minimalista** - Limpio, poco contenido, mucho espacio en blanco
+
+- [x] **Bento Grid** - Layout modular con tarjetas tipo Apple (la tendencia mas fuerte ahora)
+- [x] **Minimalista** - Limpio, poco contenido, mucho espacio en blanco
 - [ ] **Retro Terminal** - Estetica de terminal/hacker con GIF animado
 - [ ] **Colorido/Animado** - Headers animados, snake animation, muchos widgets
-- [ ] **Profesional/Corporate** - Sobrio, tipo CV, enfocado en credenciales
+- [x] **Profesional/Corporate** - Sobrio, tipo CV, enfocado en credenciales
 
 **Tema de color preferido:**
-- [ ] Tokyo Night (azul oscuro/morado)
+
+- [x] Tokyo Night (azul oscuro/morado)
 - [ ] Dracula (morado/rosa)
 - [ ] GitHub Dark (gris oscuro)
 - [ ] Catppuccin (pastel suave)
 - [ ] Radical (rosa neon/cyan)
 - [ ] Transparent (se adapta al tema del usuario)
-- [ ] Otro: ___________
+- [ ] Otro: \***\*\_\_\_\*\***
 
 ---
 
@@ -120,36 +145,42 @@ Agrupa por nivel de uso.
 Marca las secciones que quieres incluir:
 
 ### Header
-- [ ] **Typing SVG** - Texto animado que se escribe/borra (ej: "AI Engineer", "Full Stack Dev", "Open Source Lover")
+
+- [x] **Typing SVG** - Texto animado que se escribe/borra (ej: "AI Engineer", "Full Stack Dev", "Open Source Lover")
 - [ ] **Capsule Render** - Banner decorativo con onda/gradiente
 - [ ] **Header simple** - Solo texto con H1/H3
 
 Textos para el typing SVG (si lo eliges):
-> Ejemplo: "AI Engineer", "Building the future with code", "Open Source Contributor"
+
+> Ejemplo: "AI Engineer", "Building the future with code", "Open Source Contributor", "Data & AI @ Telefonica"
 
 ### Stats
-- [ ] **GitHub Stats Card** (commits, PRs, issues, estrellas)
+
+- [x] **GitHub Stats Card** (commits, PRs, issues, estrellas)
 - [ ] **Streak Stats** (racha de contribuciones)
-- [ ] **Top Languages** (lenguajes mas usados)
+- [x] **Top Languages** (lenguajes mas usados)
 - [ ] **Profile Trophy** (trofeos/logros gamificados)
-- [ ] **GitHub Profile Summary Cards** (resumen visual completo)
+- [x] **GitHub Profile Summary Cards** (resumen visual completo)
 
 ### Activity
+
 - [ ] **Contribution Snake** (serpiente comiendo tu grafo de contribuciones)
 - [ ] **Activity Graph** (grafico de linea de actividad reciente)
-- [ ] **3D Contribution Calendar** (calendario de contribuciones en 3D isometrico)
-- [ ] **WakaTime Stats** (ya lo tienes, mantener?)
+- [x] **3D Contribution Calendar** (calendario de contribuciones en 3D isometrico)
+- [x] **WakaTime Stats** (ya lo tienes, mantener?)
 
 ### Contenido dinamico
+
 - [ ] **Ultimos blog posts** (requiere blog con RSS: Medium, dev.to, etc.)
 - [ ] **Spotify Now Playing** (requiere setup con Spotify API)
 - [ ] **Recent GitHub Activity** (feed de actividad reciente)
 
 ### Extras
+
 - [ ] **Profile views counter**
 - [ ] **Visitors badge**
 - [ ] **Quotes aleatorias** (frase random de programacion)
-- [ ] **GitHub Skyline** (contribuciones en 3D tipo skyline de ciudad)
+- [x] **GitHub Skyline** (contribuciones en 3D tipo skyline de ciudad)
 
 ---
 
@@ -158,38 +189,44 @@ Textos para el typing SVG (si lo eliges):
 Quieres una seccion de proyectos destacados? Lista hasta 4:
 
 **Proyecto 1:**
-> Nombre: 
-> Descripcion corta: 
-> URL: 
+
+> Nombre:
+> Descripcion corta:
+> URL:
 
 **Proyecto 2:**
-> Nombre: 
-> Descripcion corta: 
-> URL: 
+
+> Nombre:
+> Descripcion corta:
+> URL:
 
 **Proyecto 3:**
-> Nombre: 
-> Descripcion corta: 
-> URL: 
+
+> Nombre:
+> Descripcion corta:
+> URL:
 
 **Proyecto 4:**
-> Nombre: 
-> Descripcion corta: 
-> URL: 
+
+> Nombre:
+> Descripcion corta:
+> URL:
 
 ---
 
 ## 8. GITHUB ACTIONS
 
 **Quieres que configure GitHub Actions para que el README se actualice automaticamente?**
-> [ ] Si / [ ] No
+
+> [x] Si / [ ] No
 
 Si si, cuales:
+
 - [ ] Snake animation (actualiza cada 12h)
-- [ ] WakaTime stats (ya lo tienes)
+- [x] WakaTime stats (ya lo tienes)
 - [ ] Blog posts (si tienes blog)
-- [ ] 3D contribution calendar (diaria)
-- [ ] Metrics de lowlighter/metrics (diaria)
+- [x] 3D contribution calendar (diaria)
+- [x] Metrics de lowlighter/metrics (diaria)
 
 ---
 
@@ -199,8 +236,9 @@ La imagen actual del README se mantendra:
 ![Current image](https://d500.epimg.net/cincodias/imagenes/2018/11/09/midinero/1541785111_101699_1541785255_noticia_normal.jpg)
 
 **Quieres moverla a otra posicion?**
+
 - [ ] Arriba del todo (como ahora)
-- [ ] Debajo del header/bio
+- [x] Debajo del header/bio
 - [ ] En una seccion "About me"
 - [ ] Como fondo del header
 
@@ -209,7 +247,8 @@ La imagen actual del README se mantendra:
 ## 10. NOTAS ADICIONALES
 
 **Algo mas que quieras incluir o algun README de referencia que te guste?**
-> 
+
+>
 
 ---
 
@@ -217,20 +256,21 @@ La imagen actual del README se mantendra:
 
 Para que tengas contexto de lo que esta de moda:
 
-| Tendencia | Descripcion |
-|-----------|------------|
-| **Bento Grid** | Layout modular tipo Apple, lo mas popular ahora |
-| **skill-icons** | Iconos de tech stack unificados y bonitos (reemplaza los iconos sueltos) |
-| **Tema unificado** | Un solo tema de color en todos los widgets |
-| **capsule-render** | Headers animados con gradientes y ondas |
-| **Snake animation** | Serpiente comiendo contribuciones (clasico que sigue siendo popular) |
-| **Typing SVG** | Texto animado tipo maquina de escribir |
-| **Dark mode first** | Imagenes que se adaptan al tema claro/oscuro del usuario |
-| **Stats consolidados** | Una sola tarjeta en vez de 5 widgets separados |
-| **Focus/Intent** | Seccion de "que estoy haciendo ahora" actualizada |
-| **Contenido dinamico** | Todo se actualiza solo via GitHub Actions |
+| Tendencia              | Descripcion                                                              |
+| ---------------------- | ------------------------------------------------------------------------ |
+| **Bento Grid**         | Layout modular tipo Apple, lo mas popular ahora                          |
+| **skill-icons**        | Iconos de tech stack unificados y bonitos (reemplaza los iconos sueltos) |
+| **Tema unificado**     | Un solo tema de color en todos los widgets                               |
+| **capsule-render**     | Headers animados con gradientes y ondas                                  |
+| **Snake animation**    | Serpiente comiendo contribuciones (clasico que sigue siendo popular)     |
+| **Typing SVG**         | Texto animado tipo maquina de escribir                                   |
+| **Dark mode first**    | Imagenes que se adaptan al tema claro/oscuro del usuario                 |
+| **Stats consolidados** | Una sola tarjeta en vez de 5 widgets separados                           |
+| **Focus/Intent**       | Seccion de "que estoy haciendo ahora" actualizada                        |
+| **Contenido dinamico** | Todo se actualiza solo via GitHub Actions                                |
 
 ### Herramientas clave:
+
 - **[skill-icons](https://skillicons.dev)** - Para el tech stack
 - **[capsule-render](https://github.com/kyechan99/capsule-render)** - Headers bonitos
 - **[readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)** - Texto animado
