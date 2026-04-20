@@ -95,10 +95,3 @@
 
 </details>
 
----
-
-<div align="center">
-
-[![GitHub Skyline](https://img.shields.io/badge/GitHub%20Skyline%202025-1a1b27?style=flat-square&logo=github&logoColor=white)](https://skyline.github.com/T1b4lt/2025)
-
-</div>
